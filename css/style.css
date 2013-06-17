@@ -1,0 +1,72 @@
+body{
+    background: url("../images/main_bg_tile.jpg") repeat;
+    font: 13px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+[class*="span"] {
+    float: left;
+    min-height: 1px;
+    margin-left: 10px;
+}
+.center{text-align: center;}
+.span1{width: 10px;}
+.span2{width: 20px;}
+.span3{width: 30px;}
+.span4{width: 40px;}
+.span5{width: 50px;}
+.span6{width: 60px;}
+.span7{width: 70px;}
+.span8{width: 80px;}
+.span9{width: 90px;}
+.span10{width: 100px;}
+.span16{width: 160px;}
+.span17{width: 170px;}
+.span20{width: 200px;}
+.span25{width: 250px;}
+.span30{width: 300px;}
+.span35{width: 350px;}
+.span40{width: 400px;}
+.span50{width: 500px;}
+.span60{width: 600px;}
+.span70{width: 700px;}
+.span71{width: 710px;}
+.span72{width: 720px;}
+.span73{width: 730px;}
+.span75{width: 750px;}
+.span80{width: 800px;}
+.span81{width: 810px;}
+.span87{width: 870px;}
+.span90{width: 900px;}
+.span96{width: 960px;}
+.offset1{margin-left: 10px;}
+.offset2{margin-left: 20px;}
+.mb{margin-bottom: 10px;}
+.mt{margin-top: 10px;}
+.mt-1_8{margin-top: -18px;}
+.menu-item a{
+    font-size: 1.5em;
+    color: #112939;
+}
+.main-menu{padding-top: 60px;}
+.nav > li > a:hover,
+.nav > li > a:focus {
+    text-decoration: none;
+    background-color: transparent;
+    color: #149bdf;
+}
+.main-logo{position: relative;}
+.logo-text{
+    position: absolute;
+    right: 21px;
+    bottom: 19px;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+    background-color: transparent;
+}
+.breadcrumb{
+    background-color: transparent;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+    background-color: #112939 !important;
+}
+.thumbnails{margin-left: 10px;}
